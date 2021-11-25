@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alexsteff
+- 👀 I’m interested in: python and C#
+- 🌱 I’m currently learning: C#
+- 💞️ I’m looking to collaborate: on discord bots using discord.py
+- 📫 How to reach me: you can contact me via email at alexander.pol.steff@gmail.com
